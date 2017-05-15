@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Nyoba HTML Page Gan</title>
+</head>
+
+<body>
+<p>Lorem ipsum Dolor Amet Sit Kolor Longgar Jenius</p>
+<a href="www.jenius.com">Jenius</a>
+</body>
+
+</html>
